@@ -1,0 +1,31 @@
+{
+  "name": "feedbackcafeteria",
+  "version": "1.0.0",
+  "description": "Aplicação web desenvolvida com Express para processamento de dados enviados por formulário HTML de feedback de cafeteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withlovesah/feedbackCafeteria.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "EXPRESS",
+    "NODE",
+    "FEEDBACK"
+  ],
+  "author": "Sara Heloisa Ferreira da Silva",
+  "type":"module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withlovesah/feedbackCafeteria/issues"
+  },
+  "homepage": "https://github.com/withlovesah/feedbackCafeteria#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
