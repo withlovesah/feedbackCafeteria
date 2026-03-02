@@ -1,4 +1,4 @@
-# ☕ Coffee Feedback Web
+# ☕ Feedback - Web Cafeteria
 
 Projeto acadêmico desenvolvido com **Node.js** e **Express**, cujo objetivo é criar um servidor HTTP capaz de processar dados enviados por um formulário HTML.  
 A aplicação simula um sistema simples de **feedback de uma cafeteria**, permitindo que usuários enviem avaliações sobre produtos consumidos.
